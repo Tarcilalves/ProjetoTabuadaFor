@@ -4,11 +4,15 @@ internal class Program
 {
     static void Main(string[] args)
         {
+            // Coloca o encoding para UTF8 para exibir acentuação
             Console.OutputEncoding = System.Text.Encoding.UTF8;
 
             Console.WriteLine("Seja bem vindo ao sistema de Cálculo de tabuada!\n");
-
+            
+            // Instanciando: craindo o objeto Tabuada
             Tabuada tab = new();
+
+            // Realizar o loop do Menu
             bool exibirMenu = true;
 
             while (exibirMenu)

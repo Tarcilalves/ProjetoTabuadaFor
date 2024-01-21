@@ -12,3 +12,4 @@ C:\Users\User\Documents\ProjetoTabuadaFor\obj\Debug\net8.0\refint\ProjetoTabuada
 C:\Users\User\Documents\ProjetoTabuadaFor\obj\Debug\net8.0\ProjetoTabuadaFor.pdb
 C:\Users\User\Documents\ProjetoTabuadaFor\obj\Debug\net8.0\ProjetoTabuadaFor.genruntimeconfig.cache
 C:\Users\User\Documents\ProjetoTabuadaFor\obj\Debug\net8.0\ref\ProjetoTabuadaFor.dll
+C:\Users\User\Documents\ProjetoTabuadaFor\obj\Debug\net8.0\ProjetoTabuadaFor.sourcelink.json

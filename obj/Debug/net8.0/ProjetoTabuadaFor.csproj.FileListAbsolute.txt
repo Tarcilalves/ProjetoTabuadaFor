@@ -1,0 +1,14 @@
+C:\Users\User\Documents\ProjetoTabuadaFor\obj\Debug\net8.0\ProjetoTabuadaFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\ProjetoTabuadaFor\obj\Debug\net8.0\ProjetoTabuadaFor.AssemblyInfoInputs.cache
+C:\Users\User\Documents\ProjetoTabuadaFor\obj\Debug\net8.0\ProjetoTabuadaFor.AssemblyInfo.cs
+C:\Users\User\Documents\ProjetoTabuadaFor\obj\Debug\net8.0\ProjetoTabuadaFor.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\ProjetoTabuadaFor\bin\Debug\net8.0\ProjetoTabuadaFor.exe
+C:\Users\User\Documents\ProjetoTabuadaFor\bin\Debug\net8.0\ProjetoTabuadaFor.deps.json
+C:\Users\User\Documents\ProjetoTabuadaFor\bin\Debug\net8.0\ProjetoTabuadaFor.runtimeconfig.json
+C:\Users\User\Documents\ProjetoTabuadaFor\bin\Debug\net8.0\ProjetoTabuadaFor.dll
+C:\Users\User\Documents\ProjetoTabuadaFor\bin\Debug\net8.0\ProjetoTabuadaFor.pdb
+C:\Users\User\Documents\ProjetoTabuadaFor\obj\Debug\net8.0\ProjetoTabuadaFor.dll
+C:\Users\User\Documents\ProjetoTabuadaFor\obj\Debug\net8.0\refint\ProjetoTabuadaFor.dll
+C:\Users\User\Documents\ProjetoTabuadaFor\obj\Debug\net8.0\ProjetoTabuadaFor.pdb
+C:\Users\User\Documents\ProjetoTabuadaFor\obj\Debug\net8.0\ProjetoTabuadaFor.genruntimeconfig.cache
+C:\Users\User\Documents\ProjetoTabuadaFor\obj\Debug\net8.0\ref\ProjetoTabuadaFor.dll

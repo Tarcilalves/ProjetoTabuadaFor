@@ -36,10 +36,6 @@
       <td>02</td>
       <td>Switch Case</td>     
     </tr>
-    <tr>
-      <td>03</td>
-      <td>Links úteis</td>  
-    </tr>    
   </tbody>
   <tfoot>
 </table>
